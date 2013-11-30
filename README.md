@@ -1,7 +1,7 @@
 chrome-apps-bootstrap
 =====================
 
-A sample Chrome Apps with Bootstrap and jQuery
+A sample Chrome App using Bootstrap and jQuery
 
 screenshots
 ===========

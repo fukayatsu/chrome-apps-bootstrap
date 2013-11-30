@@ -1,0 +1,21 @@
+{
+  "name": "Chrome Apps Bootstrap",
+  "description": "Chrome Apps Bootstrap",
+  "version": "0.0.1",
+  "app": {
+    "background": {
+      "scripts": [
+        "lib/jquery-2.0.3.min.js",
+        "js/background.js"
+      ]
+    }
+  },
+  "permissions": [
+    "notifications"
+  ],
+  "icons": {
+    "16": "image/icon_16.png",
+    "128": "image/icon_128.png"
+  },
+  "offline_enabled": true
+}
